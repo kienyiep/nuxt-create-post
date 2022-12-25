@@ -1,0 +1,21 @@
+{
+  "name": "my-second-nuxt-app",
+  "version": "1.0.0",
+  "description": "My divine Nuxt.js project",
+  "author": "Pong Kien Yiep",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "js-cookie": "^3.0.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
